@@ -5,3 +5,7 @@ You can search your city name and see information about current weatther
 You can see information on weather for whole week update
 
 Feature: html|CSS|JavaScript
+
+here you can see live update 
+https://festive-weather-a824b4.netlify.app/
+
